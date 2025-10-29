@@ -1,0 +1,122 @@
+[
+  {
+    "question": "A Canadian tech company wants to fill a senior developer role but prefers to promote someone already on the team who understands its culture. Which recruitment approach is the company using?",
+    "options": ["External recruiting", "Internal recruiting", "Digital recruiting", "Contract hiring"],
+    "correct_answer": "Internal recruiting",
+    "explanation": "Internal recruiting leverages current employees who are already familiar with the organization, improving morale and reducing onboarding time."
+  },
+  {
+    "question": "After promoting two team leads internally, a company notices that remaining employees feel overlooked and demotivated. What is this a potential downside of?",
+    "options": ["External recruiting", "Internal recruiting", "Job fairs", "Digital recruiting"],
+    "correct_answer": "Internal recruiting",
+    "explanation": "Internal recruiting can cause poor morale among those not promoted, leading to possible turnover."
+  },
+  {
+    "question": "A small marketing agency needs a new social media specialist and wants someone who brings fresh ideas and outside experience. Which recruitment strategy best fits this goal?",
+    "options": ["Internal posting", "External recruiting", "Promotion-from-within", "Temporary staffing"],
+    "correct_answer": "External recruiting",
+    "explanation": "External recruiting introduces new perspectives and skills not found within the organization."
+  },
+  {
+    "question": "A manufacturing company has a strict policy of giving current employees the first opportunity to apply for job openings. Which recruitment constraint is this policy an example of?",
+    "options": ["Human resource plan", "Organizational policy", "Environmental condition", "Job requirement"],
+    "correct_answer": "Organizational policy",
+    "explanation": "Promote-from-within policies are part of organizational constraints that shape how recruitment is conducted."
+  },
+  {
+    "question": "A recruiter continues using the same job boards because they’ve worked before, even though results have recently declined. Which recruitment constraint is influencing this behavior?",
+    "options": ["Recruiter habits", "Diversity and equity programs", "Environmental conditions", "Compensation policies"],
+    "correct_answer": "Recruiter habits",
+    "explanation": "Recruiter habits are formed from past success and can limit exploration of better methods."
+  },
+  {
+    "question": "A tourism company in Alberta wants to hire local staff for positions in its new Thailand office to comply with international employment laws. Which recruitment constraint applies here?",
+    "options": ["Employment status policy", "International hiring policy", "Compensation policy", "Job requirement"],
+    "correct_answer": "International hiring policy",
+    "explanation": "Some countries require foreign jobs to be staffed locally, a constraint under organizational policy."
+  },
+  {
+    "question": "An HR manager is reviewing the company's sales forecast and economic indicators before deciding whether to recruit externally. This reflects which recruitment constraint?",
+    "options": ["Job requirements", "Environmental conditions", "Costs", "Inducements"],
+    "correct_answer": "Environmental conditions",
+    "explanation": "Economic trends, employment rates, and predicted sales influence recruitment planning."
+  },
+  {
+    "question": "An applicant uses the company’s website to upload a résumé through its Application Tracking System. This describes which job application method?",
+    "options": ["Job application form", "Digital résumé submission", "Employee referral", "Walk-in application"],
+    "correct_answer": "Digital résumé submission",
+    "explanation": "Submitting a résumé electronically through an ATS is a standard digital application process."
+  },
+  {
+    "question": "A candidate fills out a company’s detailed online form listing education, skills, and references. What is this form called?",
+    "options": ["Job specification form", "Job application form", "Résumé profile", "Reference form"],
+    "correct_answer": "Job application form",
+    "explanation": "The job application form standardizes applicant data such as education, employment history, and references."
+  },
+  {
+    "question": "A retail company places an anonymous newspaper ad for store managers. Which recruitment method is this?",
+    "options": ["Employee referral", "Anonymous advertising", "Digital recruiting", "Direct inquiry"],
+    "correct_answer": "Anonymous advertising",
+    "explanation": "Advertising where the employer’s identity is not revealed is known as anonymous advertising."
+  },
+  {
+    "question": "A growing start-up decides to hire a professional search firm to recruit a new Chief Financial Officer. Which recruitment method is being used?",
+    "options": ["Private employment agency", "Professional search firm", "Digital recruiting", "Job fair"],
+    "correct_answer": "Professional search firm",
+    "explanation": "Professional search firms specialize in finding executive or specialized talent for organizations."
+  },
+  {
+    "question": "A company looking for bilingual customer service agents partners with local colleges that offer language programs. Which recruitment source is this?",
+    "options": ["Professional association", "Educational institution", "Private agency", "Job fair"],
+    "correct_answer": "Educational institution",
+    "explanation": "Colleges and universities are effective sources for recruiting graduates with specific skill sets."
+  },
+  {
+    "question": "An HR manager wants to choose the best recruitment method for entry-level retail roles. What factor should be considered first?",
+    "options": ["Cost per hire", "Skill level required", "Labour agreements", "Past performance reviews"],
+    "correct_answer": "Skill level required",
+    "explanation": "The skill level and complexity of a job are key factors when selecting recruitment sources."
+  },
+  {
+    "question": "A recruitment analyst calculates that the company spent $6,000 hiring 3 employees. Which evaluation metric does this represent?",
+    "options": ["Time lapsed per hire", "Quality of hire", "Cost per hire", "Offer-to-applicant ratio"],
+    "correct_answer": "Cost per hire",
+    "explanation": "Cost per hire = total recruitment cost divided by number of hires."
+  },
+  {
+    "question": "An HR department notices that one recruitment source produces many applicants but few job acceptances. Which evaluation measure can reveal this issue?",
+    "options": ["Cost per hire", "Offer-to-applicant ratio", "Quality of hire", "Time to fill"],
+    "correct_answer": "Offer-to-applicant ratio",
+    "explanation": "The offer-to-applicant ratio compares job offers to total applicants, showing recruitment efficiency."
+  },
+  {
+    "question": "A hospital tracks how many days it takes from posting a job to the new hire’s start date. Which recruitment effectiveness measure is this?",
+    "options": ["Time lapsed per hire", "Cost per hire", "Quality of hire", "Applicant ratio"],
+    "correct_answer": "Time lapsed per hire",
+    "explanation": "Time lapsed per hire assesses how long it takes to fill an open position."
+  },
+  {
+    "question": "A company emphasizes hiring from diverse communities to enhance creativity and reflect customer demographics. This reflects which strategic aspect of recruitment?",
+    "options": ["Competitive advantage from human resources", "Realizing benefits of diversity", "Employee development focus", "Cost reduction strategy"],
+    "correct_answer": "Realizing benefits of diversity",
+    "explanation": "Strategic recruitment ensures diversity, improving innovation and organizational representation."
+  },
+  {
+    "question": "A start-up invests heavily in recruitment marketing, viewing recruitment as a strategic resource. This reflects which strategic importance principle?",
+    "options": ["Recruitment as an administrative task", "Recruitment as a competitive advantage", "Recruitment as a temporary function", "Recruitment as an HR constraint"],
+    "correct_answer": "Recruitment as a competitive advantage",
+    "explanation": "Recruitment contributes directly to long-term strategic advantage by securing skilled talent."
+  },
+  {
+    "question": "A company offers relocation bonuses and flexible work options to attract top talent from outside the city. These benefits are examples of:",
+    "options": ["Recruitment constraints", "Inducements", "Employment equity measures", "Job requirements"],
+    "correct_answer": "Inducements",
+    "explanation": "Inducements are incentives used to stimulate applicant interest and encourage job acceptance."
+  },
+  {
+    "question": "A recruiter ensures that job postings align with the organization’s pay range and benefits policy. Which constraint is this?",
+    "options": ["Compensation policy", "Employment status policy", "Job requirement", "Organizational culture"],
+    "correct_answer": "Compensation policy",
+    "explanation": "Recruitment must adhere to existing compensation structures to ensure equity and compliance."
+  }
+]

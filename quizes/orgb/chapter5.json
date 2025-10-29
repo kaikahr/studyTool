@@ -1,0 +1,122 @@
+[
+  {
+    "question": "A sales associate keeps working overtime to meet monthly targets without being told to do so. Which element of motivation does this best represent?",
+    "options": ["Direction", "Intensity", "Persistence", "Satisfaction"],
+    "correct_answer": "Persistence",
+    "explanation": "Persistence reflects how long someone sustains effort toward a goal. The employee’s consistent overtime shows sustained motivation."
+  },
+  {
+    "question": "A company gives its employees both financial bonuses and opportunities for social gatherings. According to Four-Drive Theory, which two drives are being fulfilled?",
+    "options": ["Acquire and Bond", "Comprehend and Defend", "Bond and Comprehend", "Acquire and Defend"],
+    "correct_answer": "Acquire and Bond",
+    "explanation": "The drive to acquire relates to bonuses (rewards), while the drive to bond relates to social connection and belonging."
+  },
+  {
+    "question": "An engineer joins an after-hours coding club to explore new technologies. Which drive is primarily motivating this behaviour?",
+    "options": ["Drive to Acquire", "Drive to Bond", "Drive to Comprehend", "Drive to Defend"],
+    "correct_answer": "Drive to Comprehend",
+    "explanation": "The drive to comprehend motivates people to satisfy curiosity and gain understanding, aligning with the engineer’s behaviour."
+  },
+  {
+    "question": "A manager praises an employee for great customer service in front of the whole team, increasing that employee’s motivation. What concept explains this?",
+    "options": ["Positive Reinforcement", "Negative Reinforcement", "Extinction", "Punishment"],
+    "correct_answer": "Positive Reinforcement",
+    "explanation": "Positive reinforcement strengthens behaviour by providing a rewarding consequence following desirable actions."
+  },
+  {
+    "question": "A company ensures that employees performing the same job receive the same salary. This demonstrates which type of organizational justice?",
+    "options": ["Distributive Justice", "Procedural Justice", "Interactional Justice", "Informational Justice"],
+    "correct_answer": "Distributive Justice",
+    "explanation": "Distributive justice concerns the perceived fairness of outcomes, such as pay and rewards."
+  },
+  {
+    "question": "A graphic designer loves creating posters because the work itself is enjoyable and satisfying. This is an example of:",
+    "options": ["Extrinsic Motivation", "Intrinsic Motivation", "Instrumental Motivation", "Goal Orientation"],
+    "correct_answer": "Intrinsic Motivation",
+    "explanation": "Intrinsic motivation arises from doing an activity for inherent enjoyment or fulfillment, not for external rewards."
+  },
+  {
+    "question": "An employee who avoids conflict and always seeks others’ approval likely has a high:",
+    "options": ["Need for Power", "Need for Affiliation", "Need for Achievement", "Need for Competence"],
+    "correct_answer": "Need for Affiliation",
+    "explanation": "People with high need for affiliation seek approval, want to be liked, and prefer harmonious relationships."
+  },
+  {
+    "question": "A manager involves team members in decision-making and allows them to express their opinions before finalizing a policy. Which justice principle is being applied?",
+    "options": ["Procedural Justice – Voice", "Interactional Justice – Respect", "Distributive Justice – Equality", "Procedural Justice – Consistency"],
+    "correct_answer": "Procedural Justice – Voice",
+    "explanation": "Procedural justice involves fair decision-making; allowing employee input (‘voice’) is a key component."
+  },
+  {
+    "question": "An employee believes that working harder won’t lead to better performance evaluations because the supervisor plays favourites. Which link in Expectancy Theory is weak?",
+    "options": ["E-to-P Expectancy", "P-to-O Expectancy", "Outcome Valence", "Intrinsic Expectancy"],
+    "correct_answer": "P-to-O Expectancy",
+    "explanation": "P-to-O (performance-to-outcome) expectancy weakens when employees doubt that performance will lead to rewards."
+  },
+  {
+    "question": "A supervisor provides coaching and training so employees feel capable of meeting their targets. This helps improve which expectancy?",
+    "options": ["E-to-P Expectancy", "P-to-O Expectancy", "Outcome Valence", "Motivational Expectancy"],
+    "correct_answer": "E-to-P Expectancy",
+    "explanation": "Effort-to-performance (E-to-P) expectancy improves when people believe their effort will lead to successful performance."
+  },
+  {
+    "question": "A factory display shows workers their real-time output each hour. This is an example of which type of feedback source?",
+    "options": ["Nonsocial Feedback", "Social Feedback", "Multisource Feedback", "Developmental Feedback"],
+    "correct_answer": "Nonsocial Feedback",
+    "explanation": "Nonsocial feedback is provided by systems or metrics rather than people, allowing self-monitoring of performance."
+  },
+  {
+    "question": "A new salesperson works harder because they believe excellent results will lead to a promotion they value. Which element of Expectancy Theory is strongest?",
+    "options": ["Outcome Valence", "E-to-P Expectancy", "P-to-O Expectancy", "Goal Relevance"],
+    "correct_answer": "Outcome Valence",
+    "explanation": "Valence reflects how much a person values the reward; a valued promotion increases motivation."
+  },
+  {
+    "question": "A manager ensures that team goals are specific, measurable, achievable, relevant, and time-framed. This reflects which principle?",
+    "options": ["SMART Goal Setting", "Expectancy Model", "OB Modification", "Four-Drive Balance"],
+    "correct_answer": "SMART Goal Setting",
+    "explanation": "Effective goals follow the SMART criteria—specific, measurable, achievable, relevant, and time-framed—to enhance clarity and motivation."
+  },
+  {
+    "question": "An employee observes a senior coworker resolving customer complaints effectively and imitates their approach. Which theory explains this learning process?",
+    "options": ["Social Cognitive Theory", "Expectancy Theory", "Equity Theory", "Four-Drive Theory"],
+    "correct_answer": "Social Cognitive Theory",
+    "explanation": "Social cognitive theory emphasizes learning by observing others’ behaviours and their consequences (behaviour modelling)."
+  },
+  {
+    "question": "A manager gives immediate recognition to a worker for closing a big sale. This is an example of which reinforcement schedule?",
+    "options": ["Continuous Reinforcement", "Variable Ratio", "Fixed Interval", "Negative Reinforcement"],
+    "correct_answer": "Continuous Reinforcement",
+    "explanation": "Continuous reinforcement provides feedback or rewards every time the desired behaviour occurs, common during learning stages."
+  },
+  {
+    "question": "A leader helps an employee identify personal strengths and ways to apply them to future tasks. This approach best represents:",
+    "options": ["Strengths-Based Coaching", "Behaviour Modification", "Intrinsic Goal Setting", "Motivational Interviewing"],
+    "correct_answer": "Strengths-Based Coaching",
+    "explanation": "Strengths-based coaching focuses on leveraging an employee’s natural talents rather than fixing weaknesses."
+  },
+  {
+    "question": "An accountant realizes a coworker with the same job earns more for similar work and decides to put in less effort. This is an example of:",
+    "options": ["Reducing Inputs to Restore Equity", "Extinction Behaviour", "Low Valence Motivation", "Expectancy Breakdown"],
+    "correct_answer": "Reducing Inputs to Restore Equity",
+    "explanation": "According to Equity Theory, employees restore fairness by adjusting inputs (effort) when they feel underrewarded."
+  },
+  {
+    "question": "An employee fears losing their job and becomes defensive when given feedback. Which drive is dominating according to Four-Drive Theory?",
+    "options": ["Drive to Defend", "Drive to Bond", "Drive to Acquire", "Drive to Comprehend"],
+    "correct_answer": "Drive to Defend",
+    "explanation": "The drive to defend is activated when people feel threatened or insecure, leading to protective behaviours."
+  },
+  {
+    "question": "A supervisor provides private, respectful feedback and clearly explains the reason behind a negative decision. This best demonstrates:",
+    "options": ["Interactional Justice", "Distributive Justice", "Procedural Justice", "Cognitive Justice"],
+    "correct_answer": "Interactional Justice",
+    "explanation": "Interactional justice focuses on treating employees with dignity, respect, and providing honest explanations."
+  },
+  {
+    "question": "A firm gives workers the chance to appeal promotion decisions if they believe mistakes were made. This rule supports which type of justice?",
+    "options": ["Procedural Justice", "Distributive Justice", "Interactional Justice", "Restorative Justice"],
+    "correct_answer": "Procedural Justice",
+    "explanation": "Procedural justice emphasizes fair and transparent decision processes, including opportunities to appeal outcomes."
+  }
+]
