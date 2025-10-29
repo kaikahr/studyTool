@@ -1,0 +1,150 @@
+[
+  {
+    "front": "What is performance management?",
+    "back": "A continuous process that ensures employees meet performance goals that align with organizational objectives. It goes beyond performance appraisal and involves goal-setting, feedback, and development."
+  },
+  {
+    "front": "What are the goals of a performance management system?",
+    "back": "To align individual and organizational goals using integrated measures like financial results, customer satisfaction, internal processes, and innovation (as seen in the Balanced Scorecard)."
+  },
+  {
+    "front": "What is the Balanced Scorecard?",
+    "back": "A tool that integrates financial and non-financial performance measures, combining metrics such as customer satisfaction, internal processes, learning, innovation, and growth."
+  },
+  {
+    "front": "What are the main purposes of performance appraisals?",
+    "back": "1. Administrative decisions (promotion, pay, termination), 2. Employee feedback and development, 3. Legal documentation, 4. Validation of selection and training programs, 5. Motivation and goal alignment."
+  },
+  {
+    "front": "What are the steps in the performance appraisal process?",
+    "back": "1. Establish performance standards, 2. Communicate expectations, 3. Measure performance, 4. Compare results to standards, 5. Discuss results, 6. Make decisions (reward, training, improvement)."
+  },
+  {
+    "front": "What are performance objectives?",
+    "back": "Targets for employee performance that are job-related, practical, and measurable. They serve as benchmarks for evaluating results in terms of quality, quantity, and time."
+  },
+  {
+    "front": "What are performance standards?",
+    "back": "Specific, measurable benchmarks that define acceptable levels of job performance, typically based on quality, quantity, and timeliness."
+  },
+  {
+    "front": "What are the three main methods of measuring performance?",
+    "back": "1. Direct (based on firsthand observation), 2. Indirect (via secondhand reports like complaints), 3. Subjective (based on the rater’s opinions)."
+  },
+  {
+    "front": "What are comparative evaluation methods?",
+    "back": "Methods that compare an employee’s performance to others, including ranking and forced distribution systems."
+  },
+  {
+    "front": "What is the ranking method?",
+    "back": "A comparative method where employees are ranked from best to worst, but it can be affected by halo or recency bias."
+  },
+  {
+    "front": "What is the forced distribution method?",
+    "back": "Employees are categorized into performance levels (e.g., top 10%, average 70%, bottom 20%), often following a bell curve, to reduce leniency bias."
+  },
+  {
+    "front": "What are noncomparative evaluation methods?",
+    "back": "Methods that assess employees based on performance standards rather than comparing them to others, such as rating scales, BARS, MBO, and tests."
+  },
+  {
+    "front": "What is a rating scale?",
+    "back": "The most common appraisal tool where raters assign numerical or descriptive values to specific traits or behaviours—though it is subjective."
+  },
+  {
+    "front": "What is BARS (Behaviourally Anchored Rating Scales)?",
+    "back": "A method that describes specific examples of effective or ineffective performance along a scale, increasing reliability and objectivity."
+  },
+  {
+    "front": "What is Management by Objectives (MBO)?",
+    "back": "A collaborative method where employees and supervisors set measurable performance goals together and evaluate results based on achievement."
+  },
+  {
+    "front": "What are performance tests and observations?",
+    "back": "Direct demonstrations of job-related skills, either through paper-and-pencil or practical exercises, used to measure ability and performance."
+  },
+  {
+    "front": "Why is rater training important?",
+    "back": "It ensures raters understand the purpose, process, and forms used in appraisal and helps reduce rating errors such as bias and inconsistency."
+  },
+  {
+    "front": "What are common rater errors?",
+    "back": "Halo effect, central tendency, leniency/strictness, prejudice, recency effect, and contrast errors."
+  },
+  {
+    "front": "What is the purpose of evaluation interviews?",
+    "back": "To provide structured feedback and promote performance improvement through open communication between supervisor and employee."
+  },
+  {
+    "front": "What are the main types of evaluation interviews?",
+    "back": "1. Tell-and-sell (convince employee to change), 2. Tell-and-listen (allow employee input), 3. Problem-solving (collaborative discussion for improvement)."
+  },
+  {
+    "front": "How often should performance appraisals occur?",
+    "back": "Administrative appraisals are typically annual, while developmental feedback should be ongoing—immediately after significant performance events or quarterly."
+  },
+  {
+    "front": "How does HR use performance appraisal data?",
+    "back": "To make promotion, transfer, and compensation decisions, ensure legal compliance, and evaluate the effectiveness of HR practices."
+  },
+  {
+    "front": "What is a Performance Improvement Plan (PIP)?",
+    "back": "A formal plan outlining performance gaps, required improvements, support offered, and timelines for reevaluation to help employees meet expectations."
+  },
+  {
+    "front": "How does performance management provide feedback to HR?",
+    "back": "It helps HR assess whether poor performance stems from systemic issues, such as weak selection processes or inaccurate job analysis data."
+  },
+  {
+    "front": "What are the legal aspects of performance appraisal?",
+    "back": "Appraisals are legal documents; they must use job-relevant criteria, allow reasonable time for improvement, and be well-documented and fair."
+  },
+  {
+    "front": "Why is documentation important in performance management?",
+    "back": "Detailed records of evaluations, feedback, and improvement efforts protect organizations legally and demonstrate fairness."
+  },
+  {
+    "front": "What is talent management?",
+    "back": "The integration of employee performance and potential data to make decisions about promotions, succession planning, and development opportunities."
+  },
+  {
+    "front": "How does talent management relate to performance management?",
+    "back": "It uses performance data to identify high-potential employees and plan their development to meet future organizational needs."
+  },
+  {
+    "front": "Why is performance management more than appraisal?",
+    "back": "Because it’s an ongoing process involving goal setting, coaching, development, and evaluation—aiming for continuous improvement rather than one-time evaluation."
+  },
+  {
+    "front": "What is the relationship between individual and organizational goals in performance management?",
+    "back": "When individual performance goals align with organizational objectives, employees’ efforts directly contribute to the organization’s overall success."
+  },
+  {
+    "front": "What are indirect measures of performance?",
+    "back": "Substitutes for direct measurement, such as complaints, peer evaluations, or other secondhand observations, used when direct observation is impractical."
+  },
+  {
+    "front": "What are subjective measures of performance?",
+    "back": "Assessments based on the rater’s opinion rather than objective data—useful for evaluating traits or behaviours that are hard to quantify."
+  },
+  {
+    "front": "What are objective measures of performance?",
+    "back": "Quantifiable metrics such as sales numbers, error rates, or production output, which can be independently verified."
+  },
+  {
+    "front": "What is the recency effect in performance appraisal?",
+    "back": "A rater bias where recent behaviours are weighted more heavily than performance over the entire evaluation period."
+  },
+  {
+    "front": "What is the halo effect?",
+    "back": "A bias where one positive trait or behaviour influences the rater’s overall impression of an employee’s performance."
+  },
+  {
+    "front": "What is a contrast error?",
+    "back": "A rater bias occurring when an employee’s performance is evaluated relative to another employee instead of objective standards."
+  },
+  {
+    "front": "How can effective feedback improve performance?",
+    "back": "By providing timely, specific, and balanced insights that guide employees toward improved performance and reinforce positive behaviours."
+  }
+]
