@@ -1,0 +1,321 @@
+[
+{
+"question": "A marketing coordinator says, 'My salary isn’t bad, but what really attracted me here were the benefits, on-site gym, and flexible hours.' From an HR perspective, what is the BEST description of what this employee is referring to?",
+"options": [
+"Base pay only",
+"Total compensation, including both monetary and non-monetary rewards",
+"Indirect compensation only",
+"Variable pay tied solely to performance"
+],
+"correct_answer": "Total compensation, including both monetary and non-monetary rewards",
+"explanation": "Total compensation includes base wages, variable pay, perks and on-site amenities, recognition, and benefits. The employee is talking about the full mix of rewards, not just salary."
+},
+{
+"question": "A small tech firm is designing its compensation package. It wants to clearly separate the money paid as salary and bonuses from things like health insurance and paid vacation. How should HR label these two categories?",
+"options": [
+"Direct compensation and indirect compensation",
+"Total rewards and base rewards",
+"Intrinsic rewards and extrinsic rewards",
+"Short-term rewards and long-term rewards"
+],
+"correct_answer": "Direct compensation and indirect compensation",
+"explanation": "Direct compensation includes wages, salaries, and variable pay (bonuses, commissions, stock), while indirect compensation includes benefits and services like insurance and paid vacation."
+},
+{
+"question": "An employee compares her pay to a friend in another company and feels underpaid, even though she earns more than most of her colleagues in the same job internally. Which type of equity is she MOST concerned about?",
+"options": [
+"Internal equity",
+"External equity",
+"Procedural equity",
+"Distributive equity unrelated to pay"
+],
+"correct_answer": "External equity",
+"explanation": "External equity refers to how an organization’s pay compares to pay for similar jobs in the external labour market. She is comparing her pay to someone at another company."
+},
+{
+"question": "In a manufacturing plant, a group of skilled machine operators discover that new hires with less experience are being paid slightly more than they are for the same job. What is the MOST likely consequence if HR does not address this issue?",
+"options": [
+"Improved morale and reduced turnover",
+"Higher productivity due to increased competition",
+"Reduced motivation, increased dissatisfaction, and possible turnover",
+"No impact, because pay does not affect employee behaviour"
+],
+"correct_answer": "Reduced motivation, increased dissatisfaction, and possible turnover",
+"explanation": "When employees perceive compensation as inappropriate, especially relative to others, their performance, motivation, and satisfaction often decline and turnover may increase."
+},
+{
+"question": "Two organizations offer a new graduate a job. Offer A has a slightly higher salary but limited development and no flexibility. Offer B has slightly lower pay but strong mentoring, advancement opportunities, and flexible scheduling. In terms of the total rewards model, what is the MAIN reason the graduate might choose Offer B?",
+"options": [
+"Offer B provides better base wages only",
+"Offer B has a stronger mix of non-monetary rewards like advancement, development, and work–life balance",
+"Offer B offers higher indirect financial benefits only",
+"Offer B focuses exclusively on variable pay incentives"
+],
+"correct_answer": "Offer B has a stronger mix of non-monetary rewards like advancement, development, and work–life balance",
+"explanation": "The total rewards model includes not just pay and benefits but also elements like advancement, development opportunities, workload, and work variety, which are stronger in Offer B."
+},
+{
+"question": "A hospital is revising its compensation system and wants to ensure it meets employment standards, human rights, and pay equity legislation. Which OBJECTIVE of compensation management is this concern MOST closely related to?",
+"options": [
+"Rewarding behaviour",
+"Controlling costs",
+"Legal compliance",
+"Retaining employees"
+],
+"correct_answer": "Legal compliance",
+"explanation": "One key objective of compensation management is legal compliance—ensuring pay practices align with labour, human rights, and pay equity laws."
+},
+{
+"question": "A non-profit organization has limited funds but needs to keep its doors open while still attracting and retaining staff. It decides to keep salaries modest but enhances recognition, development, and meaningful work. Which TWO compensation objectives is HR balancing MOST directly?",
+"options": [
+"Legal compliance and pay secrecy",
+"Controlling costs and retaining employees",
+"Union power and prevailing wage rates",
+"Productivity and wage gap"
+],
+"correct_answer": "Controlling costs and retaining employees",
+"explanation": "The organization is trying to control costs by keeping salaries modest while still retaining employees by strengthening other aspects of the total rewards package."
+},
+{
+"question": "A large retailer wants to position itself as an 'employer of choice' and decides to pay 10–15% above the market average for key roles. Which compensation philosophy is this company MOST clearly following?",
+"options": [
+"Match-the-market strategy",
+"Lag-the-market strategy",
+"Lead-the-market strategy",
+"Skill-based-only strategy"
+],
+"correct_answer": "Lead-the-market strategy",
+"explanation": "A lead-the-market philosophy pays more than competitors to attract and retain high-quality employees."
+},
+{
+"question": "A small family business cannot afford top-of-market wages. HR decides to set pay levels slightly below average but offers strong job security and a friendly environment. Which compensation philosophy does this MOST closely represent?",
+"options": [
+"Lead",
+"Match",
+"Lag",
+"Skill-based"
+],
+"correct_answer": "Lag",
+"explanation": "A lag strategy pays somewhat below market rates but can be offset by other rewards, such as security or culture."
+},
+{
+"question": "An HR specialist is asked to design pay grades for a new branch. She begins by updating job descriptions, job specifications, and performance standards for each role. Which phase in determining direct compensation is she working in?",
+"options": [
+"Phase 1: Establishing compensation philosophy",
+"Phase 2: Reviewing job analysis",
+"Phase 3: Pricing jobs",
+"Phase 4: Matching employees to pay"
+],
+"correct_answer": "Phase 2: Reviewing job analysis",
+"explanation": "Phase 2 focuses on understanding jobs and required skills using job analysis information such as job descriptions, specifications, and performance standards."
+},
+{
+"question": "A company plans to create a new pay structure and needs to know the relative worth of jobs inside the organization. It uses a systematic method to compare jobs and assign them a hierarchy of value. What is this process called?",
+"options": [
+"Market-pricing",
+"Job evaluation",
+"Skill certification",
+"Pay secrecy policy"
+],
+"correct_answer": "Job evaluation",
+"explanation": "Job evaluation is a systematic procedure used to determine the relative worth or value of jobs within an organization (internal equity)."
+},
+{
+"question": "In a small retail chain, the owner simply ranks jobs in order of importance: regional manager, store manager, and then sales assistant, and pays accordingly. What is the MAIN limitation of this job ranking method?",
+"options": [
+"It is too complex and expensive to administer",
+"It does not consider the relative distances in value between jobs",
+"It cannot be used in small organizations",
+"It automatically ensures pay equity across gendered jobs"
+],
+"correct_answer": "It does not consider the relative distances in value between jobs",
+"explanation": "Job ranking provides an order of jobs but does not indicate how much more valuable one job is than another."
+},
+{
+"question": "A public-sector employer uses standardized job class descriptions such as 'Office Assistant 6' and 'Office Assistant 9,' each with defined duties and salary ranges. New job descriptions are matched to the closest class. Which job evaluation method is being used?",
+"options": [
+"Job ranking",
+"Job grading / classification",
+"Point system",
+"Skill-based pay"
+],
+"correct_answer": "Job grading / classification",
+"explanation": "Job grading (classification) groups jobs into predetermined classes or grades with descriptions and salary ranges, and matches jobs to these classes."
+},
+{
+"question": "An HR team builds a point system for jobs using compensable factors such as skill, responsibility, effort, and working conditions. After assigning points, they see that Job A has 340 points, Job B has 280, and Job C has 180. How should this MOST likely influence pay decisions?",
+"options": [
+"All three jobs should receive the same pay because they are in the same company",
+"Job A should be paid the least because it has the most points",
+"Jobs should be paid in line with their total points, with Job A highest and Job C lowest",
+"Points should only be used for promotions, not pay"
+],
+"correct_answer": "Jobs should be paid in line with their total points, with Job A highest and Job C lowest",
+"explanation": "In point systems, higher point totals reflect greater job value and should correspond to higher pay to maintain internal equity."
+},
+{
+"question": "A national chain wants to ensure its pay is competitive. HR purchases wage and salary surveys for key jobs in the same labour market and adjusts pay ranges to align with other employers. Which pricing approach is being used?",
+"options": [
+"Job ranking",
+"Market-pricing",
+"Point-factor evaluation",
+"Skill-based pay"
+],
+"correct_answer": "Market-pricing",
+"explanation": "Market-pricing focuses on external competitiveness and uses wage and salary surveys to set pay based on what competitors are paying."
+},
+{
+"question": "A manufacturing firm cross-trains employees so they can operate multiple machines, read production schedules, and handle basic budgeting for their team. Employees receive pay increases as they master more skills and take on self-management responsibilities. What BEST describes this pay approach?",
+"options": [
+"Seniority-based pay",
+"Market-pricing",
+"Skill-based pay focused on depth, breadth, and self-management",
+"Pure piecework pay"
+],
+"correct_answer": "Skill-based pay focused on depth, breadth, and self-management",
+"explanation": "Skill-based pay links pay to the depth and breadth of skills and self-management capabilities that employees acquire, rather than to a fixed job title."
+},
+{
+"question": "After doing job evaluation and reviewing market surveys, HR plots job value (points) against market rates and draws a wage-trend line. They then group jobs into classes and assign minimum and maximum pay for each. Which step in determining direct compensation are they completing?",
+"options": [
+"Phase 1: Compensation philosophy",
+"Phase 2: Job analysis",
+"Phase 3: Pricing jobs",
+"Phase 4: Matching employees to pay and creating the compensation structure"
+],
+"correct_answer": "Phase 4: Matching employees to pay and creating the compensation structure",
+"explanation": "Phase 4 involves establishing pay levels by combining job evaluation, market data, and pay policy, then creating job classes and rate ranges based on a wage-trend line."
+},
+{
+"question": "During bargaining, a union pushes strongly for across-the-board wage increases above what management believes it can afford. HR worries about losing competitiveness if it agrees. Which compensation challenge is MOST evident here?",
+"options": [
+"Prevailing wage rates",
+"Union power",
+"Government constraints",
+"Skill-based pay"
+],
+"correct_answer": "Union power",
+"explanation": "Union power can significantly influence wage levels and create pressure on the employer’s compensation decisions."
+},
+{
+"question": "A restaurant chain wants to raise wages but must also comply with minimum wage laws and upcoming pay equity legislation that affects job classes dominated by women. Which compensation challenge is central in this situation?",
+"options": [
+"Union power",
+"Prevailing wage rates only",
+"Government constraints such as legislation",
+"Productivity alone"
+],
+"correct_answer": "Government constraints such as legislation",
+"explanation": "Government constraints, including minimum wage, labour standards, and pay equity laws, directly shape compensation decisions."
+},
+{
+"question": "A factory pays production workers a fixed amount for every unit they assemble correctly. High performers can significantly increase their earnings, while low performers earn less. What type of variable pay is this?",
+"options": [
+"Discretionary bonus",
+"Piecework plan",
+"Profit-sharing plan",
+"Team-based gainsharing"
+],
+"correct_answer": "Piecework plan",
+"explanation": "Piecework ties pay directly to individual output, paying a set rate per unit produced."
+},
+{
+"question": "A sales department wants to encourage collaboration rather than cut-throat competition. Instead of paying only individual commissions, it introduces a quarterly bonus for teams that collectively exceed sales targets. What kind of incentive plan is this?",
+"options": [
+"Individual incentive plan",
+"Team or group incentive plan",
+"Profit-sharing plan",
+"Ownership plan"
+],
+"correct_answer": "Team or group incentive plan",
+"explanation": "Bonuses based on team results are team or group incentive plans, designed to reward collective performance."
+},
+{
+"question": "A company introduces a profit-sharing plan where employees receive a share of the company’s profits at year-end. What is a realistic BENEFIT of this approach?",
+"options": [
+"It guarantees every individual’s performance will improve",
+"It directly links pay to organizational performance and can strengthen ownership feelings",
+"It replaces the need for base pay",
+"It eliminates all internal pay inequities"
+],
+"correct_answer": "It directly links pay to organizational performance and can strengthen ownership feelings",
+"explanation": "Profit-sharing and ownership plans tie part of employees’ income to organizational results, encouraging a sense of shared success."
+},
+{
+"question": "In a call centre, agents earn bonuses based solely on the number of calls handled per hour. Complaints about rushed and rude service increase. Which LIMITATION of incentive systems does this example illustrate?",
+"options": [
+"Employees may not respond to incentives at all",
+"Incentives are always too complex to administer",
+"Employees may focus narrowly on the incentivized metric and ignore other important aspects",
+"Incentives never reinforce performance"
+],
+"correct_answer": "Employees may focus narrowly on the incentivized metric and ignore other important aspects",
+"explanation": "One problem with incentive systems is that employees may concentrate on the rewarded behaviour (call volume) and neglect quality or other important performance aspects."
+},
+{
+"question": "Two employees, one male and one female, perform the same job with identical responsibilities and performance levels, but the woman is paid less. Which legal concept is MOST clearly being violated?",
+"options": [
+"Equal pay for work of equal value (pay equity)",
+"Equal pay for equal work",
+"Skill-based pay",
+"Market-pricing"
+],
+"correct_answer": "Equal pay for equal work",
+"explanation": "Equal pay for equal work means men and women must receive the same pay when they perform the same job. Paying the woman less violates this principle."
+},
+{
+"question": "In a municipality, nursing assistants (mostly women) and building maintenance workers (mostly men) hold different jobs, but a job evaluation study shows they are of comparable worth to the organization. However, maintenance workers are paid significantly more. What concept is MOST relevant to correcting this situation?",
+"options": [
+"Equal pay for equal work",
+"Equal pay for work of equal value (pay equity)",
+"Piecework incentives",
+"Pay secrecy"
+],
+"correct_answer": "Equal pay for work of equal value (pay equity)",
+"explanation": "Pay equity requires jobs of comparable worth to the organization to be paid equally, even if the jobs are different and dominated by different genders."
+},
+{
+"question": "A company reviews its pay data and notices women earn about 87% of what men earn on average. Many women work in lower-paying occupations such as retail and caregiving, and several have interrupted careers due to childcare. Which statement BEST reflects the wage gap issue here?",
+"options": [
+"The wage gap is entirely due to individual choices and has no link to discrimination",
+"Occupational segregation and career gaps contribute to the wage gap, though a portion may still be due to gender-based pay discrimination",
+"The wage gap is illegal and must be zero in all organizations",
+"The wage gap only affects men from minority racial groups"
+],
+"correct_answer": "Occupational segregation and career gaps contribute to the wage gap, though a portion may still be due to gender-based pay discrimination",
+"explanation": "The chapter notes that women often work in lower-paying occupations and have career gaps, and that 5–10% of the wage gap may be due to gender-based pay discrimination; wage gaps also intersect with race and other identities."
+},
+{
+"question": "At a financial services firm, employees are discouraged from discussing their salaries and there is no access to pay range information. Over time, rumours about unfair pay spread and trust in management declines. Which DISADVANTAGE of pay secrecy does this illustrate?",
+"options": [
+"Employees feel there is no link between pay and performance and may distrust the system",
+"Managers lose all discretion in pay decisions",
+"Pay secrecy guarantees pay equity across genders",
+"Pay secrecy always improves morale"
+],
+"correct_answer": "Employees feel there is no link between pay and performance and may distrust the system",
+"explanation": "A disadvantage of pay secrecy is that it may generate distrust and lead employees to believe there is no relationship between pay and performance, especially if inequities are suspected."
+},
+{
+"question": "A manager argues for strict pay secrecy because she believes most employees prefer privacy, and she wants flexibility to adjust pay without constant justification. Which advantage of pay secrecy is she relying on?",
+"options": [
+"It completely eliminates wage gaps",
+"It ensures employees always understand the pay system",
+"It protects privacy and gives managers more freedom while potentially masking inequities",
+"It guarantees higher productivity"
+],
+"correct_answer": "It protects privacy and gives managers more freedom while potentially masking inequities",
+"explanation": "Advantages of pay secrecy include employee preference for privacy and greater managerial freedom, but it can also cover up inequities."
+},
+{
+"question": "A Canadian company is opening a branch overseas and designing a global compensation system for expatriates and local hires. Which consideration is MOST important when setting pay for these roles?",
+"options": [
+"Using the same nominal salary everywhere, regardless of cost of living and legal requirements",
+"Ignoring local labour markets to avoid complexity",
+"Considering currency exchange rates, cost of living, local market wages, and legal requirements in each country",
+"Basing all salaries only on the home-country minimum wage"
+],
+"correct_answer": "Considering currency exchange rates, cost of living, local market wages, and legal requirements in each country",
+"explanation": "Designing a global compensation system requires attention to international differences such as market wages, cost of living, currency issues, and local legislation to ensure equity and competitiveness."
+}
+]

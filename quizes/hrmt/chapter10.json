@@ -1,0 +1,167 @@
+[
+{
+"question": "A mid-sized manufacturing firm is struggling with high turnover. Exit interviews reveal that employees leave mainly because competing employers offer better health and retirement benefits. Which objective of employee benefit programs does this MOST directly relate to?",
+"options": [
+"Societal objectives",
+"Organizational objectives",
+"Employee tax-related objectives",
+"Flexible benefits objectives"
+],
+"correct_answer": "Organizational objectives",
+"explanation": "Organizational objectives include using benefits to recruit, retain, and satisfy employees. Chapter 10 notes that benefits help reduce turnover and aid recruitment."
+},
+{
+"question": "A retail employee breaks her ankle outside of work and is unable to work for six weeks. Her employer continues to pay her 70% of her normal wage during this time. Which type of voluntary benefit is the company providing?",
+"options": [
+"Supplemental health benefits",
+"Short-term disability salary continuation",
+"Long-term disability coverage",
+"Employment Insurance sickness benefits"
+],
+"correct_answer": "Short-term disability salary continuation",
+"explanation": "Voluntary disability benefits include short-term salary continuation programs to replace income for temporary, non-work-related medical absences."
+},
+{
+"question": "A company provides employees with dental coverage, prescription drugs, travel insurance, and vision care. Which category of benefits does this set fall under?",
+"options": [
+"Legally required benefits",
+"Health-related insurance benefits",
+"Income security benefits",
+"Employee assistance services"
+],
+"correct_answer": "Health-related insurance benefits",
+"explanation": "Chapter 10 lists supplemental health benefits such as prescriptions, dental care, paramedical, travel insurance, and vision care as part of voluntary health-related insurance."
+},
+{
+"question": "A long-service employee is laid off because her department is eliminated. The employer provides a lump-sum payment to help her transition. What type of income security benefit is this?",
+"options": [
+"Supplemental unemployment benefit (SUB)",
+"Guaranteed annual wage (GAW)",
+"Severance pay",
+"Workers’ compensation"
+],
+"correct_answer": "Severance pay",
+"explanation": "Income security benefits include severance, which provides financial support when employees are terminated for business reasons."
+},
+{
+"question": "A company offers a pension plan in which employees’ retirement income is based on a formula that includes salary and years of service. What type of pension plan is this?",
+"options": [
+"Defined contribution plan",
+"Defined benefit plan",
+"Group RRSP",
+"Tax-Free Savings Account program"
+],
+"correct_answer": "Defined benefit plan",
+"explanation": "Defined benefit (DB) plans promise a predetermined pension calculated using salary and service. Chapter 10 describes DB plans exactly this way."
+},
+{
+"question": "A tech company provides employees with a fixed dollar amount in a benefits account. Employees may choose dental, vision, lifestyle spending, or extra disability coverage based on their personal needs. What kind of benefit structure is this?",
+"options": [
+"Traditional standardized benefits",
+"Legally required benefits",
+"Flexible or cafeteria-style benefits",
+"Employee assistance program"
+],
+"correct_answer": "Flexible or cafeteria-style benefits",
+"explanation": "Flexible benefits allow employees to select benefits that match their own needs. Chapter 10 highlights that workers receive an account with dollars to allocate."
+},
+{
+"question": "A 27-year-old employee with a young child chooses high spousal life insurance and caregiver support programs, while a 56-year-old employee chooses more paramedical and wellness spending. Which advantage of flexible benefits does this scenario illustrate?",
+"options": [
+"Lower employer administration costs",
+"Standardization across all employees",
+"Ability for employees to customize benefits to their personal needs",
+"Reduced need for communication"
+],
+"correct_answer": "Ability for employees to customize benefits to their personal needs",
+"explanation": "Chapter 10 shows that flexible benefits allow different employees to choose benefits suited to their circumstances, as in the Worker A and Worker B example."
+},
+{
+"question": "An employee is experiencing high stress and decreased productivity because of family issues. The employer refers them to a confidential counselling service at no cost. What type of employee service is this?",
+"options": [
+"Supplemental unemployment benefit",
+"Employee Assistance Program (EAP)",
+"Long-term disability claim",
+"Taxable benefit support"
+],
+"correct_answer": "Employee Assistance Program (EAP)",
+"explanation": "EAPs offer counselling and support for personal challenges. Chapter 10 lists EAPs as a key voluntary employee service."
+},
+{
+"question": "A firm wants to reduce its workers’ compensation insurance costs. HR recommends increasing safety training and reducing workplace accidents. How does this align with HR implications discussed in the chapter?",
+"options": [
+"It helps avoid duplication of benefit plans",
+"It directly reduces legally required benefit costs",
+"It ensures compliance with pension legislation",
+"It eliminates the need for benefit audits"
+],
+"correct_answer": "It directly reduces legally required benefit costs",
+"explanation": "Chapter 10 notes that reducing accidents lowers the cost of workers’ compensation, a legally required benefit."
+},
+{
+"question": "A company discovers during a benefit audit that employees rarely use the travel insurance coverage but heavily use paramedical services. What should HR MOST likely do with this information?",
+"options": [
+"Eliminate all voluntary benefits to cut costs",
+"Reallocate benefit funding toward high-value benefits",
+"Ignore the findings because usage is not relevant",
+"Increase travel insurance coverage"
+],
+"correct_answer": "Reallocate benefit funding toward high-value benefits",
+"explanation": "Benefit audits help identify claiming patterns to control costs and adjust offerings. Chapter 10 emphasizes using audits to identify savings and improve alignment."
+},
+{
+"question": "An employer provides parking, financial counselling, and free short-term accommodation to employees. Which Canadian tax rule applies to these benefits?",
+"options": [
+"They are always tax-free",
+"GST generally applies to these benefits",
+"They are exempt because they are voluntary",
+"They are classified as retirement benefits"
+],
+"correct_answer": "GST generally applies to these benefits",
+"explanation": "Chapter 10 lists GST-applicable benefits such as company cars, financial counselling, parking, and short-term accommodations."
+},
+{
+"question": "A part-time employee wants access to wellness accounts and paid leaves offered to full-time staff. The organization is considering extending certain emerging services to part-time workers to remain competitive. Which trend does this reflect?",
+"options": [
+"Traditional standardized benefits",
+"Emerging benefit services and trends",
+"Legally mandated compensation",
+"Union-negotiated entitlements only"
+],
+"correct_answer": "Emerging benefit services and trends",
+"explanation": "Chapter 10 lists expanding benefits for part-time workers as part of emerging services and trends, alongside wellness accounts and concierge services."
+},
+{
+"question": "A firm realizes its benefit package is extremely complex and employees do not understand what is available to them. What is the MOST important HR action to address this issue?",
+"options": [
+"Reduce wages to increase benefit spending",
+"Improve communication of benefits to employees",
+"Eliminate flexible benefits",
+"Rely solely on insurance providers to communicate details"
+],
+"correct_answer": "Improve communication of benefits to employees",
+"explanation": "Chapter 10 highlights that communication is a major challenge in benefits administration. Employees often want benefits but are unaware of what is offered."
+},
+{
+"question": "An employer wants to ensure its benefits align with organizational goals such as retention and productivity. According to the chapter, what should HR do FIRST?",
+"options": [
+"Compare its benefits to competitors",
+"Define the objectives of the organization",
+"Conduct an external audit",
+"Increase benefit spending"
+],
+"correct_answer": "Define the objectives of the organization",
+"explanation": "Chapter 10’s strategy implications emphasize starting with organizational objectives before aligning benefits with HR and employee needs."
+},
+{
+"question": "A company wants a retirement plan where employees choose investment types and the final payout depends on contributions and investment performance. Which plan does this describe?",
+"options": [
+"Defined benefit plan",
+"Defined contribution plan",
+"Group life insurance plan",
+"Guaranteed annual wage program"
+],
+"correct_answer": "Defined contribution plan",
+"explanation": "DC plans base retirement income on contributions and investment returns, not a fixed formula—exactly as described in Chapter 10."
+}
+]

@@ -1,0 +1,222 @@
+[
+{
+"question": "Employees at a distribution centre feel management plays favourites in assigning overtime and ignores complaints. Workers begin discussing the need for fair treatment and protection. Which explanation best describes why they may seek unionization?",
+"options": [
+"Union pull factors, such as improved wages and benefits",
+"Union push factors caused by unfair employer treatment",
+"A desire for social unionism",
+"Pressure from government labour boards"
+],
+"correct_answer": "Union push factors caused by unfair employer treatment",
+"explanation": "Chapter 13 explains that poor management practices, unfair treatment, or ineffective complaint resolution push employees toward forming or joining unions."
+},
+{
+"question": "A group of retail employees is attracted to the idea of higher wages, job security, and grievance representation. Which explanation describes their motivation to join?",
+"options": [
+"Union push",
+"Union pull",
+"Union suppression",
+"Union substitution"
+],
+"correct_answer": "Union pull",
+"explanation": "Union pull refers to employees being drawn into unions due to perceived benefits such as better pay, security, and representation."
+},
+{
+"question": "An employee declines to join a union because they worry it will reduce their chances of promotion and add extra dues. Which set of factors does this represent?",
+"options": [
+"Reasons for joining a union",
+"Reasons for not joining a union",
+"Union suppression tactics",
+"Collective bargaining strategies"
+],
+"correct_answer": "Reasons for not joining a union",
+"explanation": "Chapter 13 notes that fear of harming career prospects, paying dues, or having another 'boss' may discourage employees from joining."
+},
+{
+"question": "A local union representing construction workers belongs to a larger national union that provides bargaining support, research, and education. What type of union structure is this?",
+"options": [
+"Local union only",
+"Craft union only",
+"National or international union affiliation",
+"Industrial union"
+],
+"correct_answer": "National or international union affiliation",
+"explanation": "Many locals are part of larger national or international unions, which offer resources and coordination across regions."
+},
+{
+"question": "Skilled electricians across multiple worksites belong to a union consisting only of workers in that trade. What type of union is this?",
+"options": [
+"Industrial union",
+"Craft union",
+"Local union",
+"Social reform union"
+],
+"correct_answer": "Craft union",
+"explanation": "Craft unions consist of members who share a specific skill or trade, such as electricians or carpenters."
+},
+{
+"question": "A municipal worker claims their union is working to influence provincial legislation on labour protections and safety rules. What union philosophy is this?",
+"options": [
+"Business unionism",
+"Social (reform) unionism",
+"Union substitution",
+"Adversarial unionism"
+],
+"correct_answer": "Social (reform) unionism",
+"explanation": "Social unionism seeks to influence broader social, economic, and legal policies, not just workplace conditions."
+},
+{
+"question": "During bargaining, management argues it retains the authority to make decisions not otherwise limited by the collective agreement. What concept does this argument reflect?",
+"options": [
+"Good faith bargaining",
+"Residual rights theory",
+"Mutual gains bargaining",
+"Union security provisions"
+],
+"correct_answer": "Residual rights theory",
+"explanation": "Management rights clauses and the residual rights theory assert management authority unless restricted in the agreement."
+},
+{
+"question": "Union organizers distribute handbills and visit workers at home to encourage them to sign authorization cards. Under Canadian law, which statement is true?",
+"options": [
+"This is prohibited at all times",
+"Organizing must occur only on work premises",
+"Employees cannot discuss unionization during regular working hours",
+"Employers must allow organizing meetings during work time"
+],
+"correct_answer": "Employees cannot discuss unionization during regular working hours",
+"explanation": "The chapter states employees may not discuss union organizing during regular work hours, though organizing off-hours and off-site is permitted."
+},
+{
+"question": "A labour board is called to investigate claims that a company threatened to close its plant if workers unionized. What type of violation is this?",
+"options": [
+"Bargaining in bad faith",
+"Unfair labour practice by management",
+"Union coercion",
+"Voluntary recognition"
+],
+"correct_answer": "Unfair labour practice by management",
+"explanation": "Threatening closure or intimidating workers is considered an unfair labour practice under Canadian labour legislation."
+},
+{
+"question": "A union gains bargaining rights after demonstrating majority support through signed authorization cards. What is this process called?",
+"options": [
+"Certification",
+"Voluntary recognition",
+"Conciliation",
+"Grievance arbitration"
+],
+"correct_answer": "Certification",
+"explanation": "Certification occurs when a labour board formally recognizes the union based on card support or an election."
+},
+{
+"question": "Negotiations between management and union representatives stall. A government-appointed third party steps in to bring both sides together. What process is this?",
+"options": [
+"Binding arbitration",
+"Conciliation",
+"Mediation",
+"Joint problem solving"
+],
+"correct_answer": "Conciliation",
+"explanation": "Conciliation involves a government-appointed third party who tries to help resolve bargaining disputes."
+},
+{
+"question": "A union and employer voluntarily select a neutral third party to help them resolve differences during negotiations without government involvement. Which process is this?",
+"options": [
+"Conciliation",
+"Mediation",
+"Automatic certification",
+"Strike-breaking"
+],
+"correct_answer": "Mediation",
+"explanation": "Mediation occurs when both parties voluntarily choose a neutral mediator to reconcile differences."
+},
+{
+"question": "An employee files a formal complaint that the employer violated the collective agreement. What type of issue is this?",
+"options": [
+"A certification dispute",
+"A grievance",
+"An unfair labour practice",
+"A union security violation"
+],
+"correct_answer": "A grievance",
+"explanation": "A grievance is a formal complaint that the agreement has been violated, typically addressed through multi-step procedures."
+},
+{
+"question": "A dispute arises about whether workers must join the union within a specified period of being hired. Which part of the contract is relevant?",
+"options": [
+"Union security clause",
+"Seniority clause",
+"Management rights clause",
+"Just cause clause"
+],
+"correct_answer": "Union security clause",
+"explanation": "Union security provisions govern membership requirements, such as union shop rules."
+},
+{
+"question": "A private employer redesigns jobs, enhances benefits, and improves communication to reduce the likelihood of employees seeking union representation. What strategy is being used?",
+"options": [
+"Union suppression",
+"Union substitution",
+"Adversarial bargaining",
+"Mandatory arbitration"
+],
+"correct_answer": "Union substitution",
+"explanation": "Union substitution provides employees with what unions typically offer—voice, fairness, and good conditions—to reduce union appeal."
+},
+{
+"question": "An employer threatens to fire employees who sign union cards. What union avoidance approach is this?",
+"options": [
+"Union substitution",
+"Union suppression",
+"Mutual gains bargaining",
+"High-involvement work practices"
+],
+"correct_answer": "Union suppression",
+"explanation": "Union suppression involves attempts to intimidate workers or prevent unionization through coercive or illegal tactics."
+},
+{
+"question": "In a unionized workplace, HR expands its team to include labour relations specialists and centralizes disciplinary documentation. Why is this necessary?",
+"options": [
+"Unions eliminate the need for HR involvement",
+"Unionized settings require more uniform and structured HR practices",
+"Discipline is no longer required in union environments",
+"Collective agreements automatically resolve all disputes"
+],
+"correct_answer": "Unionized settings require more uniform and structured HR practices",
+"explanation": "Collective agreements place limits on managerial discretion and require consistent documentation, leading to more formal HR practices."
+},
+{
+"question": "A union and management collaborate on training programs, joint committees, and early consultation on changes. What type of relationship is this?",
+"options": [
+"Adversarial",
+"Cooperative labour-management approach",
+"Union suppression",
+"Coercive mediation"
+],
+"correct_answer": "Cooperative labour-management approach",
+"explanation": "The chapter highlights increased acceptance that labour and management must cooperate, using methods such as joint committees and consultation."
+},
+{
+"question": "Which public-sector rule differs from private-sector union bargaining?",
+"options": [
+"Public-sector employees can never strike",
+"Public-sector workers may choose arbitration instead of striking",
+"Collective agreements cannot include grievance procedures",
+"Public-sector unions are exempt from labour laws"
+],
+"correct_answer": "Public-sector workers may choose arbitration instead of striking",
+"explanation": "Under the Public Service Staff Relations Act, federal employees can opt for arbitration or strike, and some essential workers may be restricted from striking."
+},
+{
+"question": "An organization notices rising turnover, low morale, and ineffective complaint processes. Which warning sign does this indicate?",
+"options": [
+"High productivity",
+"Signs of upcoming union organizing",
+"Collective bargaining success",
+"Effective union substitution"
+],
+"correct_answer": "Signs of upcoming union organizing",
+"explanation": "High turnover, low satisfaction, poor complaint procedures, and below-average pay are signs employees may pursue unionization."
+}
+]

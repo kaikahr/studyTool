@@ -1,0 +1,222 @@
+[
+{
+"question": "A construction company historically believed that accidents were unavoidable and mainly caused by careless workers. Which outdated safety model does this reflect?",
+"options": [
+"Shared responsibility model",
+"Careless worker model",
+"Joint responsibility model",
+"Hazard elimination model"
+],
+"correct_answer": "Careless worker model",
+"explanation": "Chapter 12 explains that early workplace safety was based on the belief that accidents resulted from worker carelessness."
+},
+{
+"question": "A factory introduces new safety protocols where both supervisors and employees work together to identify hazards and propose solutions. Which safety model does this demonstrate?",
+"options": [
+"Careless worker model",
+"Shared responsibility model",
+"Union-led enforcement model",
+"Employer-only liability model"
+],
+"correct_answer": "Shared responsibility model",
+"explanation": "Modern safety emphasizes cooperation between employer and employees through shared responsibility."
+},
+{
+"question": "A young worker on their first month of the job is injured while operating unfamiliar machinery. Based on the statistics in the chapter, what does this situation reflect?",
+"options": [
+"Younger workers rarely experience serious injuries",
+"Most injuries in young workers occur after several years",
+"Young workers are at heightened risk, especially in the first months of employment",
+"Young workers suffer mostly from stress-related injuries"
+],
+"correct_answer": "Young workers are at heightened risk, especially in the first months of employment",
+"explanation": "Chapter 12 notes that many injuries among young workers occur within their first 6 months, with 20% in the first month."
+},
+{
+"question": "An employee is concerned about exposure to loud equipment on the job. What type of health hazard is this?",
+"options": [
+"Biological agent",
+"Physical agent",
+"Ergonomic hazard",
+"Psychosocial hazard"
+],
+"correct_answer": "Physical agent",
+"explanation": "Physical agents include noise, radiation, and similar physical environmental risks."
+},
+{
+"question": "A lab technician handling blood samples wants clearer training on how to avoid infection. Which category of hazard is involved?",
+"options": [
+"Ergonomic",
+"Physical",
+"Biological",
+"Mechanical"
+],
+"correct_answer": "Biological",
+"explanation": "Biological hazards involve exposure to natural organisms such as viruses and bacteria."
+},
+{
+"question": "A company requires all employees to receive WHMIS training before working with chemicals. Which fundamental employee right does this MOST directly support?",
+"options": [
+"Right to refuse unsafe work",
+"Right to accommodation",
+"Right to privacy",
+"Right to know about hazards"
+],
+"correct_answer": "Right to know about hazards",
+"explanation": "WHMIS ensures employees understand hazardous materials, supporting the right to know."
+},
+{
+"question": "An employee reports a dangerous machine malfunction to the joint health and safety committee and participates in the investigation. Which employee right is being exercised?",
+"options": [
+"Right to participate",
+"Right to refuse",
+"Right to privacy",
+"Right to equal treatment"
+],
+"correct_answer": "Right to participate",
+"explanation": "Employees have the right to participate in identifying and correcting hazards."
+},
+{
+"question": "A worker refuses to enter a confined space that they believe is unsafe due to poor ventilation. What right are they using?",
+"options": [
+"Right to participate",
+"Right to refuse dangerous work",
+"Right to accommodation",
+"Right to work remotely"
+],
+"correct_answer": "Right to refuse dangerous work",
+"explanation": "Employees can refuse work they reasonably believe is hazardous."
+},
+{
+"question": "HR is ensuring all supervisors enforce safety rules consistently and document compliance. Which legal concept is this MOST closely tied to?",
+"options": [
+"Reasonable notice",
+"Due diligence",
+"Constructive dismissal",
+"The Wallace effect"
+],
+"correct_answer": "Due diligence",
+"explanation": "Due diligence is the best defence in safety-related legal cases; employers must show they took all reasonable precautions."
+},
+{
+"question": "A company conducts regular inspections and reviews incident reports to evaluate safety risks. What is this practice called?",
+"options": [
+"Stress audit",
+"Safety climate assessment",
+"Health and safety audit",
+"Workplace redesign"
+],
+"correct_answer": "Health and safety audit",
+"explanation": "Audits help organizations assess the effectiveness of safety programs and identify gaps."
+},
+{
+"question": "An employee is experiencing chronic worry, irritability, and digestive problems caused by workload. What health issue is this MOST likely related to?",
+"options": [
+"Burnout",
+"Workplace violence",
+"A biological hazard",
+"Mechanical stress injury"
+],
+"correct_answer": "Burnout",
+"explanation": "Burnout involves emotional, mental, and physical exhaustion from prolonged stress."
+},
+{
+"question": "A company offers free gym memberships and wellness workshops to improve employee well-being and reduce disability claims. What type of program is this?",
+"options": [
+"Hazardous materials management program",
+"Fitness and employee wellness program",
+"Stress audit initiative",
+"Occupational illness compensation program"
+],
+"correct_answer": "Fitness and employee wellness program",
+"explanation": "Wellness programs aim to improve health, reduce absenteeism, and lower disability claims."
+},
+{
+"question": "A software team reports feeling overwhelmed by unrealistic deadlines and poor communication from management. Which category of stress cause does this BEST match?",
+"options": [
+"Working conditions",
+"Management practices",
+"Financial/compensation issues",
+"Type or nature of job"
+],
+"correct_answer": "Management practices",
+"explanation": "Chapter 12 identifies poor communication, lack of support, and unrealistic demands as stressors tied to management practices."
+},
+{
+"question": "An HR team introduces training programs to help employees identify early symptoms of stress and seek help. What type of stress management approach is this?",
+"options": [
+"Curative method",
+"Preventive measure",
+"Legal compliance",
+"Occupational hazard reduction"
+],
+"correct_answer": "Preventive measure",
+"explanation": "Preventive measures attempt to reduce or eliminate the causes of stress before problems escalate."
+},
+{
+"question": "An employee who is physically present but mentally disengaged due to stress is exhibiting which phenomenon?",
+"options": [
+"Absenteeism",
+"Presenteeism",
+"Burnout",
+"Workplace violence"
+],
+"correct_answer": "Presenteeism",
+"explanation": "Presenteeism occurs when employees are at work but not fully productive due to illness or stress."
+},
+{
+"question": "A manufacturing plant redesigns roles, clarifies responsibilities, and adjusts workloads to reduce employee stress. Which HR action is reflected?",
+"options": [
+"Define roles and provide training",
+"Increase surveillance",
+"Reduce wages to lower expectations",
+"Enforce stricter discipline"
+],
+"correct_answer": "Define roles and provide training",
+"explanation": "Chapter 12 lists defining roles, training, job design, compatible workloads, and participation in decisions as HR actions that reduce stress."
+},
+{
+"question": "A building has poor ventilation and employees complain of headaches and respiratory irritation. What issue does this represent?",
+"options": [
+"Ergonomic hazard",
+"Sick Building Syndrome",
+"Workplace violence",
+"Biological hazard"
+],
+"correct_answer": "Sick Building Syndrome",
+"explanation": "Sick Building Syndrome involves health problems caused by environmental conditions like poor ventilation."
+},
+{
+"question": "A large organization forms a committee empowered to enforce safety standards and review all safety policies. According to the chapter, why is this important?",
+"options": [
+"Committees increase marketing performance",
+"Committees eliminate all workplace hazards",
+"Committees support organizational safety strategy by overseeing compliance",
+"Committees replace the need for supervisors"
+],
+"correct_answer": "Committees support organizational safety strategy by overseeing compliance",
+"explanation": "A health and safety committee with enforcement authority helps ensure policies are properly carried out."
+},
+{
+"question": "A logistics company trains workers on how to safely lift heavy boxes and redesigns workstations to reduce strain. What type of hazard is being addressed?",
+"options": [
+"Physical hazard",
+"Biological hazard",
+"Ergonomic hazard",
+"Chemical hazard"
+],
+"correct_answer": "Ergonomic hazard",
+"explanation": "Ergonomic hazards relate to work environment design, repetitive strain, and improper body mechanics."
+},
+{
+"question": "After downsizing, a company notices an increase in workplace accidents. According to the chapter, what explanation is likely?",
+"options": [
+"Downsizing removes all safety risks",
+"Downsizing usually increases safety resources",
+"Downsizing may strain remaining employees and reduce safety attention",
+"Downsizing always eliminates unsafe roles"
+],
+"correct_answer": "Downsizing may strain remaining employees and reduce safety attention",
+"explanation": "Chapter 12 indicates downsizing can negatively impact safety by increasing workloads and reducing oversight."
+}
+]

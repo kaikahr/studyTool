@@ -1,0 +1,222 @@
+[
+{
+"question": "A department manager notices morale dropping and productivity declining. Employees say they rarely understand organizational changes and only hear about decisions through gossip. Which communication issue is MOST likely causing the problem?",
+"options": [
+"Lack of upward communication channels",
+"Lack of downward communication from management",
+"Overuse of employee involvement programs",
+"Unclear disciplinary procedures"
+],
+"correct_answer": "Lack of downward communication from management",
+"explanation": "Chapter 11 describes downward communication (e.g., publications, electronic messages, information sharing) as essential for communicating goals and building commitment."
+},
+{
+"question": "An employee sends an anonymous suggestion through an internal system about improving safety processes. Which form of employee communication is being used?",
+"options": [
+"Informal grapevine",
+"Downward communication",
+"Upward communication",
+"Peer-to-peer communication"
+],
+"correct_answer": "Upward communication",
+"explanation": "Upward communication includes suggestion systems, attitude surveys, and formal complaint procedures that allow employees to share information with management."
+},
+{
+"question": "A supervisor meets with an employee who is struggling with stress due to family issues. The supervisor refers the employee to a confidential counselling service offered by the employer. What program is being used?",
+"options": [
+"Progressive discipline",
+"Employee Assistance Program (EAP)",
+"Preventive discipline",
+"Performance management"
+],
+"correct_answer": "Employee Assistance Program (EAP)",
+"explanation": "EAPs are comprehensive programs designed to help employees overcome work-related and personal problems through counselling and support."
+},
+{
+"question": "HR implements mandatory orientation sessions explaining company rules, proper conduct, and expectations before any problems occur. What type of discipline is this?",
+"options": [
+"Corrective discipline",
+"Punitive discipline",
+"Preventive discipline",
+"Progressive discipline"
+],
+"correct_answer": "Preventive discipline",
+"explanation": "Preventive discipline occurs before infractions and focuses on educating employees to encourage rule compliance."
+},
+{
+"question": "An employee repeatedly violates attendance rules despite prior warnings. HR escalates the penalty from verbal warning to written warning, then suspension. Which disciplinary system is the company using?",
+"options": [
+"Positive discipline",
+"Progressive discipline",
+"Constructive dismissal",
+"Preventive discipline"
+],
+"correct_answer": "Progressive discipline",
+"explanation": "Progressive discipline uses stronger penalties for repeated offences. Documentation is essential, as emphasized in the chapter."
+},
+{
+"question": "During corrective action, a manager focuses the conversation on solving the problem instead of blaming the employee and avoids unpaid suspensions. What disciplinary approach is being applied?",
+"options": [
+"Punitive discipline",
+"Progressive discipline",
+"Positive discipline",
+"Preventive discipline"
+],
+"correct_answer": "Positive discipline",
+"explanation": "Positive discipline takes a problem-solving approach and encourages responsibility rather than punishment."
+},
+{
+"question": "An employer fires an employee immediately after a mistake without any prior warning or fair investigation. The employee sues, arguing they received no reasonable notice or due process. What type of legal issue is this?",
+"options": [
+"Corrective discipline",
+"Constructive dismissal",
+"Wrongful dismissal",
+"Just cause termination"
+],
+"correct_answer": "Wrongful dismissal",
+"explanation": "Wrongful dismissal occurs when an employee is terminated without just cause or without reasonable notice or pay in lieu."
+},
+{
+"question": "A company wants to dismiss an employee for poor performance. Before doing so, which requirement MUST be met to establish just cause?",
+"options": [
+"Offer of a severance package",
+"Proof that clear performance standards were set and the employee failed to meet them",
+"Employee's refusal to sign a new employment contract",
+"Documented personal disagreements with the supervisor"
+],
+"correct_answer": "Proof that clear performance standards were set and the employee failed to meet them",
+"explanation": "For incompetent performance as just cause, the employer must show standards were established, the employee failed to meet them, and clear warnings were given."
+},
+{
+"question": "An employee resigns after their employer significantly reduces their responsibilities, demotes them, and moves them to a lower-status role. What has MOST likely occurred?",
+"options": [
+"Progressive discipline",
+"Constructive dismissal",
+"Just cause termination",
+"Voluntary resignation without cause"
+],
+"correct_answer": "Constructive dismissal",
+"explanation": "Significant changes in job duties or status that force resignation can constitute constructive dismissal."
+},
+{
+"question": "An employer terminates an employee without just cause and must determine an appropriate notice period. Which factor is NOT typically used in deciding reasonable notice?",
+"options": [
+"Employee's age",
+"Length of service",
+"Labour market conditions",
+"Employee’s personal debt level"
+],
+"correct_answer": "Employee’s personal debt level",
+"explanation": "Reasonable notice factors include age, service length, salary, occupational status, and labour market conditions—not personal finances."
+},
+{
+"question": "A company behaves in a hostile and insensitive way during an employee’s dismissal, leading to the court increasing the amount of notice owed. Which legal principle explains this?",
+"options": [
+"The hot-stove rule",
+"The Wallace effect",
+"The due process rule",
+"Just cause doctrine"
+],
+"correct_answer": "The Wallace effect",
+"explanation": "The Wallace effect refers to extended notice awarded due to bad-faith conduct by the employer during dismissal."
+},
+{
+"question": "Managers want to install software that tracks every keystroke and monitors employee messages. What employee right must the organization consider?",
+"options": [
+"Right to fair treatment",
+"Right to privacy",
+"Right to work remotely",
+"Right to progressive discipline"
+],
+"correct_answer": "Right to privacy",
+"explanation": "Employees have privacy rights, and employers should collect only job-related information and comply with PIPEDA."
+},
+{
+"question": "An employee is denied a promotion because of age, even though they meet all job requirements. Which right has been violated?",
+"options": [
+"Right to work remotely",
+"Right to privacy",
+"Right to fair treatment",
+"Right to due process"
+],
+"correct_answer": "Right to fair treatment",
+"explanation": "Fair treatment requires nondiscrimination based on age, race, gender, etc., and includes providing reasonable accommodation."
+},
+{
+"question": "A Canadian employee demands to work permanently from home. The employer refuses because their tasks require on-site presence. According to Chapter 11, what is true about remote work rights?",
+"options": [
+"Employees in Canada have an absolute legal right to remote work",
+"Employees have no legal right to remote work unless tied to accommodation or contract",
+"Refusing remote work is always discrimination",
+"Employees may sue for wrongful dismissal if remote work is denied"
+],
+"correct_answer": "Employees have no legal right to remote work unless tied to accommodation or contract",
+"explanation": "Chapter 11 states employees do not legally have a right to remote work unless it is contractually promised or required as accommodation up to undue hardship."
+},
+{
+"question": "A supervisor is unsure how to handle cannabis use among employees after legalization. Which concern listed in the chapter is MOST relevant for safety-sensitive positions?",
+"options": [
+"Employee rights to free recreational substances",
+"Absence of a reliable test for impairment",
+"Guaranteed accommodation for all recreational use",
+"Requirement that all employees follow zero-tolerance policies"
+],
+"correct_answer": "Absence of a reliable test for impairment",
+"explanation": "The chapter states one major employer concern is the lack of accurate and reliable impairment testing for cannabis, especially in safety-sensitive roles."
+},
+{
+"question": "A company forms self-directed work teams that can make decisions previously made by supervisors. Which employee involvement method is being used?",
+"options": [
+"Employee self-service",
+"High-involvement work practices",
+"Self-directed work teams",
+"Open-book management"
+],
+"correct_answer": "Self-directed work teams",
+"explanation": "Self-directed work teams allow employees to make decisions traditionally made by supervisors."
+},
+{
+"question": "Employees can now update personal data, manage retirement information, and access benefits plans online. Which involvement practice is being implemented?",
+"options": [
+"Employee self-service",
+"Open-door policy",
+"Work redesign",
+"Workforce reduction"
+],
+"correct_answer": "Employee self-service",
+"explanation": "Employee self-service applications reduce administrative work by allowing employees to manage data and benefits directly."
+},
+{
+"question": "A company faces declining revenues and decides to eliminate roles to improve financial performance. This is an example of which type of downsizing strategy?",
+"options": [
+"Work redesign",
+"Workforce reduction",
+"Systematic change",
+"Skill enhancement"
+],
+"correct_answer": "Workforce reduction",
+"explanation": "Workforce reduction involves decreasing the number of employees through layoffs or attrition."
+},
+{
+"question": "A company eliminates hierarchical layers, redesigns workflows, and increases automation to improve efficiency without immediate layoffs. What type of downsizing strategy is this?",
+"options": [
+"Work redesign",
+"Workforce reduction",
+"Collective bargaining",
+"Constructive dismissal"
+],
+"correct_answer": "Work redesign",
+"explanation": "Work redesign changes workflows and organizational structure to improve efficiency without necessarily reducing headcount."
+},
+{
+"question": "A company wants to improve retention of high performers. Which strategy from Chapter 11 BEST supports this?",
+"options": [
+"Limiting communication from management",
+"Rewarding managers for retaining employees",
+"Expanding progressive discipline policies",
+"Increasing monitoring and surveillance"
+],
+"correct_answer": "Rewarding managers for retaining employees",
+"explanation": "Retention strategies include rewarding managers for keeping good employees, communicating vision clearly, and conducting exit interviews."
+}
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "front": "What is a union?",
+    "back": "An organization with legal authority to represent workers, negotiate employment terms with employers, and administer the collective agreement."
+  },
+  {
+    "front": "What is a collective agreement?",
+    "back": "A negotiated contract outlining wages, benefits, hours, working conditions, and grievance procedures; it limits certain management rights."
+  },
+  {
+    "front": "What is the union push explanation?",
+    "back": "Employees are pushed into unions due to poor employer treatment, peer pressure, or contract provisions requiring union membership."
+  },
+  {
+    "front": "What is the union pull explanation?",
+    "back": "Employees are drawn to unions because of benefits such as higher wages, job security, better benefits, and grievance representation."
+  },
+  {
+    "front": "Why do employees choose to join unions?",
+    "back": "Reasons include job dissatisfaction, positive attitudes toward unions, and belief that unions can improve workplace conditions."
+  },
+  {
+    "front": "Why do employees choose not to join unions?",
+    "back": "Concerns about reduced promotion opportunities, having another 'boss,' union dues, and belief that employer treatment is already fair."
+  },
+  {
+    "front": "How do Canadians view unions?",
+    "back": "Among union members, 17% view membership as a huge benefit; only 37% of non-union employees are interested in unionizing."
+  },
+  {
+    "front": "What is business unionism?",
+    "back": "A philosophy focused on improving wages, hours, and working conditions in a businesslike manner."
+  },
+  {
+    "front": "What is social (reform) unionism?",
+    "back": "Union efforts to influence social, economic, and legal public policies beyond workplace issues."
+  },
+  {
+    "front": "What is a local union?",
+    "back": "The basic unit providing members, revenue, and power for the union movement."
+  },
+  {
+    "front": "What is a craft union?",
+    "back": "A union composed of workers with the same skill or trade, such as carpenters."
+  },
+  {
+    "front": "What is an industrial union?",
+    "back": "A union representing unskilled and semi-skilled workers in a particular industry or location."
+  },
+  {
+    "front": "What are national or international unions?",
+    "back": "Large unions to which many locals belong, often providing resources and coordination."
+  },
+  {
+    "front": "What is the Canadian Labour Congress (CLC)?",
+    "back": "A national body representing millions of Canadian workers; influences public policy, provides services, enforces its constitution, resolves disputes, and represents Canada internationally."
+  },
+  {
+    "front": "What are key trends in Canadian union membership?",
+    "back": "30.4% union coverage; highest in public administration, education, utilities, and healthcare; lowest in agriculture and technical services; growth in unionized women; decline in Millennial unionization."
+  },
+  {
+    "front": "How does union representation affect wages and benefits?",
+    "back": "Union workers typically receive higher wages and more comprehensive benefits."
+  },
+  {
+    "front": "What are common impacts of unions on strikes and productivity?",
+    "back": "Most agreements resolve without strikes; productivity effects are debated."
+  },
+  {
+    "front": "What core rights are included in Canadian labour legislation?",
+    "back": "Right to join a union, good faith bargaining, prohibition of strikes/lockouts during agreements, conciliation procedures, and rules against unfair labour practices."
+  },
+  {
+    "front": "What are labour relations boards?",
+    "back": "Federal/provincial bodies that administer labour laws, investigate violations, and enforce decisions."
+  },
+  {
+    "front": "What methods are used in union organizing campaigns?",
+    "back": "Handbills, home visits, speeches, conversations, and authorization card signing; certification occurs via cards or elections."
+  },
+  {
+    "front": "What are signs employees may be considering unionization?",
+    "back": "High turnover/absenteeism, dissatisfaction in surveys, below-average pay/benefits, and ineffective complaint procedures."
+  },
+  {
+    "front": "What are unfair labour practices by management?",
+    "back": "Interfering with union formation, financial contribution to unions, discrimination based on union status, intimidation or coercion."
+  },
+  {
+    "front": "What are unfair labour practices by unions?",
+    "back": "Trying to bargain without certification, coercive persuasion during work hours, illegal strikes, and failing to represent employees fairly."
+  },
+  {
+    "front": "How can a union obtain bargaining rights?",
+    "back": "Through voluntary recognition, labour board certification, or automatic certification due to unfair labour practices."
+  },
+  {
+    "front": "What are the three phases of negotiating a collective agreement?",
+    "back": "Preparing for negotiations, negotiating with the union, and approving the proposed agreement."
+  },
+  {
+    "front": "What are management rights in bargaining?",
+    "back": "Residual rights to manage operations unless restricted by contract; expressed through a management rights clause."
+  },
+  {
+    "front": "What is mutual gains bargaining?",
+    "back": "A win-win approach using joint problem solving, requiring trust, respect, and conflict resolution training."
+  },
+  {
+    "front": "What is conciliation?",
+    "back": "A government-appointed third party helps bring labour and management together during negotiation breakdowns."
+  },
+  {
+    "front": "What is mediation?",
+    "back": "A voluntary process where a neutral third party helps disputing parties reach resolution."
+  },
+  {
+    "front": "What is a grievance?",
+    "back": "A complaint that the collective agreement has been violated; addressed through formal multi-step procedures."
+  },
+  {
+    "front": "What is arbitration?",
+    "back": "A final settlement method used when grievance procedures fail, often binding."
+  },
+  {
+    "front": "What are common contract provisions that create disputes?",
+    "back": "Union security clauses, dues check-off/Rand Formula, seniority rules, and discipline requirements including just cause."
+  },
+  {
+    "front": "What is unique about public sector bargaining?",
+    "back": "Federal employees may choose arbitration or strike, but essential workers can be prohibited from striking."
+  },
+  {
+    "front": "What is union suppression?",
+    "back": "Employer actions to prevent unionization, including intimidation or threats (often illegal)."
+  },
+  {
+    "front": "What is union substitution?",
+    "back": "Employers implement union-like benefits and systems (fair standards, good pay, voice mechanisms) to reduce employees’ desire for unionization."
+  },
+  {
+    "front": "How do unions influence HR practices?",
+    "back": "HR may expand to include labour relations roles; record-keeping becomes centralized; management has less freedom to make unilateral decisions."
+  },
+  {
+    "front": "What are key activities of labour relations professionals?",
+    "back": "Conflict resolution, coaching on labour practices, administering the collective agreement, and grievance settlement."
+  },
+  {
+    "front": "What are examples of labour-management cooperation?",
+    "back": "Joint committees, consultation with union leaders, training programs, sincere concern for employee welfare, and third-party facilitation."
+  },
+  {
+    "front": "What modern challenges affect employers and unions?",
+    "back": "Artificial intelligence, climate change, and remote work."
+  }
+]
