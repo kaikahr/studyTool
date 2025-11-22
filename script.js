@@ -3,7 +3,7 @@
 // List the chapters that exist for each subject.
 // Use just the number part ("5", "6", etc).
 const SUBJECT_CHAPTERS = {
-  hrmt: ["5", "6", "7", "8"],
+  hrmt: ["9", "10", "11", "12", "13"],
   orgb: ["5", "6", "7", "11", "14"],
 };
 
